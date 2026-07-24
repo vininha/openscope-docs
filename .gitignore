@@ -4,6 +4,8 @@
 # generated content
 .source
 
+.idea
+
 # test & build
 /coverage
 /.next/
